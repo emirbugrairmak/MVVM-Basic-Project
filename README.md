@@ -25,7 +25,7 @@ Bu uygulama, kullanıcıdan iki sayı ve yapılacak matematiksel işlemi alarak 
 
 **Model:** Veri kaynağını temsil eder (bu örnekte basit bir hesaplama modeli).
 
-**Uygulamanın Ekran Fotoğrafı**
+### **Uygulamanın Ekran Fotoğrafı**
 
 
 ![Screenshot_1726926860](https://github.com/user-attachments/assets/8ab3dcf0-8ef2-4cd7-b454-a9f4323c6596)
