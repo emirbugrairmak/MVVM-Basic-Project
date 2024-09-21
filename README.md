@@ -1,6 +1,6 @@
 # MVVM Basic Project
 
-🔗**Basit bir hesap makinesi uygulaması**
+## **Basit bir hesap makinesi uygulaması**
 
 Bu uygulama, kullanıcıdan iki sayı ve yapılacak matematiksel işlemi alarak sonucu ekranda gösteren basit bir hesap makinesidir. Android Jetpack bileşenleri ve MVVM mimarisi kullanılarak geliştirilmiştir. Amacımız, MVVM yapısını pratik bir örnek üzerinde uygulamak ve Android geliştirmedeki en iyi uygulamaları sergilemektir.
 
