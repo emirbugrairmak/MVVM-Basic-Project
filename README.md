@@ -8,14 +8,22 @@ Bu uygulama, kullanıcıdan iki sayı ve yapılacak matematiksel işlemi alarak 
 **Teknolojiler:**
 
 -Kotlin
+
 -MVVM
+
 -LiveData
+
 -ViewModel
+
 -Data Binding
+
 -Navigation Component
 
+
 **View (Görünüm):** Activity veya Fragment, kullanıcı arayüzünü oluşturur ve kullanıcı etkileşimlerini yönetir.
+
 **ViewModel:** Verileri tutar, iş mantığını içerir ve LiveData nesneleri aracılığıyla View'a veri sağlar.
+
 **Model:** Veri kaynağını temsil eder (bu örnekte basit bir hesaplama modeli).
 
 **Uygulamanın Ekran Fotoğrafı**
